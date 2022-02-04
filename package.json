@@ -1,0 +1,26 @@
+{
+  "name": "electron-app-lesson",
+  "version": "1.0.0",
+  "description": "Aciklama yok",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehmetsalihyaldiz/electron-app-lesson.git"
+  },
+  "keywords": [
+    "electron",
+    "lesson"
+  ],
+  "author": "Mehmet Salih YALDIZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehmetsalihyaldiz/electron-app-lesson/issues"
+  },
+  "homepage": "https://github.com/mehmetsalihyaldiz/electron-app-lesson#readme",
+  "devDependencies": {
+    "electron": "^17.0.0"
+  }
+}
